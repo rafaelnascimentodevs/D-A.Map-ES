@@ -2,4 +2,4 @@
 
 
 - Este repositório consiste em :
-- Analisar os dados geograficos e mapear o estado do Espirito Santo
+- Analisar os dados geograficos e mapear o estado do Espirito Santo delimitando os Estados
